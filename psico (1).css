@@ -1,0 +1,47 @@
+body{
+    background-color: #9fe635;
+}
+.titulo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    width: 22%;
+    font-size: 300%;
+}
+.cerebro{
+    width: 7%;
+    
+}
+.topo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+.meio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.subtitulo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 250%;
+}
+.principal{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 150%;
+}
+.final{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imagem{
+    width: 25%;
+}
+.fotos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
